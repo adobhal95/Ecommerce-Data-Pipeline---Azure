@@ -9,5 +9,6 @@ The dataset simulates real-world e-commerce operations, including website traffi
 
 ## Project Architecture
 
+![Project Arc](./docs/images/project_arc.png)
 
 [Project Setup](./docs/setup.md)
