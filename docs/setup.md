@@ -17,6 +17,8 @@
 
 ## Azure Data Factory
 
+![pipeline_success](./images/pipeline_success.png)
+
 It's a data integration and orchestration service, lets you ingest, transform, and move data from multiple sources to destinations (data lakes, data warehouses, databases) without managing servers.
 
 - What ADF is commonly used for:
@@ -107,6 +109,8 @@ Secure credentials for:
 
 ## Logic Apps
 
+![logicapp](./images/logic_app.png)
+
 Azure Logic Apps is a cloud-based "Low-Code/No-Code" platform used to build automated workflows that connect different apps, data, and systems.
 
 **Core Components**
@@ -118,9 +122,15 @@ Every Logic App follows a simple "If This, Then That" logic:
 
 *Here it will be used for sending email for adf pipeline activity(if it's a failure or success).*
 
+**Pipeline Success Email**
+
+![pipeline_success](./images/pipeline_success_email.png)
+
 [Steps to create Logic App](./)
 
 ## Azure Monitor
+
+![logicapp](./images/monitor.png)
 
 Azure Monitor is a central hub that collects and analyzes telemetry (logs and metrics) from all your Azure and on-premises resources.
 
